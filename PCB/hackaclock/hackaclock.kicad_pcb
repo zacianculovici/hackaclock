@@ -140,7 +140,7 @@
 		(property "Reference" "H3"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
-			(uuid "5843ec00-733e-450b-b389-c71a1b4e8b9f")
+			(uuid "7eba221d-28fd-4d9b-ad17-9085ae59f05f")
 			(effects
 				(font
 					(size 1 1)
@@ -151,7 +151,7 @@
 		(property "Value" "MountingHole"
 			(at 0 4.15 0)
 			(layer "F.Fab")
-			(uuid "40361869-6abc-4738-9cfc-8c966f0c23e6")
+			(uuid "288f0204-94e7-4252-b59b-6cc49936b9b2")
 			(effects
 				(font
 					(size 1 1)
@@ -163,7 +163,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "82338b57-b679-4de2-a905-fa8b4339b683")
+			(uuid "6fa5f763-3d41-4257-98bc-a7fa25ce1744")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -174,7 +174,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f8470ed9-c921-4e5c-8b0b-4f447edb8ec5")
+			(uuid "9bfbd558-f665-4e43-98d3-3c010230b3ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -197,6 +197,12 @@
 		(path "/036a8d67-e941-4a18-b5ef-9b20b724e95e")
 		(sheetname "/")
 		(sheetfile "hackaclock.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -536,7 +542,7 @@
 		(property "Reference" "H4"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
-			(uuid "275135dc-6131-49cd-b748-9de945005bf5")
+			(uuid "cdf5354c-80f9-4338-aa6e-2dd369c4330d")
 			(effects
 				(font
 					(size 1 1)
@@ -547,7 +553,7 @@
 		(property "Value" "MountingHole"
 			(at 0 4.15 0)
 			(layer "F.Fab")
-			(uuid "53933fcc-9bfe-4bda-a532-39594b8dcfd8")
+			(uuid "71bc2054-be71-4e41-a363-bf6ed9842db7")
 			(effects
 				(font
 					(size 1 1)
@@ -559,7 +565,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "03a3b653-b13d-453d-b686-d76364dbf4ae")
+			(uuid "22ea62e0-ae7b-4e19-9dfc-5b1d2ca4837a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -570,7 +576,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ca8c2bde-364b-44a0-93b1-b0d2e7d08358")
+			(uuid "4e516b18-2ccf-4fc3-bcd8-55da8487d9c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -593,6 +599,12 @@
 		(path "/2b71ca3a-8e54-4b76-b22f-5fd136d2a51e")
 		(sheetname "/")
 		(sheetfile "hackaclock.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -646,7 +658,7 @@
 		(property "Reference" "H5"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
-			(uuid "86ccef17-047a-4adf-9de7-2ff838c74fef")
+			(uuid "058c0e8d-1b90-4b8b-a532-d658e864610d")
 			(effects
 				(font
 					(size 1 1)
@@ -657,7 +669,7 @@
 		(property "Value" "MountingHole"
 			(at 0 4.15 0)
 			(layer "F.Fab")
-			(uuid "2c69798f-4f78-4a19-bab7-692bb6dca831")
+			(uuid "1eb7397b-7a41-42bf-8041-869c23c089a7")
 			(effects
 				(font
 					(size 1 1)
@@ -669,7 +681,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3d1f353b-a604-475f-9ae5-79ec8fecfe35")
+			(uuid "1e382a4e-ad7a-46b5-994b-9732495eb0a5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -680,7 +692,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "30f9e4cd-1bee-445a-b03f-a59301046723")
+			(uuid "3e5b1124-168c-46df-9688-acbf0b926604")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -703,6 +715,12 @@
 		(path "/53cc6eaf-1418-46ed-9605-5c386e4d8b75")
 		(sheetname "/")
 		(sheetfile "hackaclock.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -756,7 +774,7 @@
 		(property "Reference" "H1"
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
-			(uuid "c64553d2-b885-4cc0-995b-361bf21f2de1")
+			(uuid "f8ecbfdc-6a2d-48de-a694-0aec722912c7")
 			(effects
 				(font
 					(size 1 1)
@@ -767,7 +785,7 @@
 		(property "Value" "MountingHole"
 			(at 0 4.15 0)
 			(layer "F.Fab")
-			(uuid "1544181e-56e6-4174-974a-77c86351bb6e")
+			(uuid "e92d6503-b8d7-4bc9-aa40-95fda1b3b838")
 			(effects
 				(font
 					(size 1 1)
@@ -779,7 +797,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f421933e-f445-4add-90a1-b076c629d48c")
+			(uuid "5143a4b9-a920-4db2-b308-5b8c395d8d6a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -790,7 +808,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9fa28e5a-0b9d-4efb-b0b7-fbab628032cd")
+			(uuid "977c89cf-0200-450d-84d7-dcd7f3723232")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -813,6 +831,12 @@
 		(path "/39c93f50-794c-4459-93aa-333db2d9f1fa")
 		(sheetname "/")
 		(sheetfile "hackaclock.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -2513,7 +2537,7 @@
 		(property "Reference" "BZ1"
 			(at 3.8 7.2 180)
 			(layer "B.SilkS")
-			(uuid "ef2763e3-af5d-40cc-9489-7aa53664c61d")
+			(uuid "27933540-2b8b-43e3-bad1-b5e8b59b1c85")
 			(effects
 				(font
 					(size 1 1)
@@ -2525,7 +2549,7 @@
 		(property "Value" "Buzzer"
 			(at 3.8 -7.4 180)
 			(layer "B.Fab")
-			(uuid "3559c2dd-989d-42ca-a4f6-6f4165a5869e")
+			(uuid "d71adb59-9023-4d78-9442-f56bb9d719bb")
 			(effects
 				(font
 					(size 1 1)
@@ -2539,7 +2563,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9f8b429b-a6f7-451a-add7-955765ecde69")
+			(uuid "e1527381-8e66-495c-a6db-50027d298d72")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2553,7 +2577,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "15a68cc7-6e20-46fc-b995-0d54a8792a7d")
+			(uuid "8244deda-ff9d-435a-a435-fc30615ce9df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2566,6 +2590,12 @@
 		(path "/51fd5e3d-198f-47fd-beb4-97633f66dd20")
 		(sheetname "/")
 		(sheetfile "hackaclock.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -2692,7 +2722,7 @@
 		(property "Reference" "J1"
 			(at 0 2.77 90)
 			(layer "B.SilkS")
-			(uuid "bf0232ce-1728-4bba-a899-fd34fa2a9c03")
+			(uuid "10be61c3-3a3d-4fe8-82bf-8da7c8ea7b9e")
 			(effects
 				(font
 					(size 1 1)
@@ -2704,7 +2734,7 @@
 		(property "Value" "Conn_01x08_Pin"
 			(at 0 -20.55 90)
 			(layer "B.Fab")
-			(uuid "639250eb-5ad3-4785-92d2-6ea85df0c492")
+			(uuid "2c714030-ce1e-4f58-b7ae-54cf9108b746")
 			(effects
 				(font
 					(size 1 1)
@@ -2717,7 +2747,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "fc13fdce-8ebd-48c4-b412-f15860a88c21")
+			(uuid "0ca5d688-3d53-45ec-b355-5b750299998f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2729,7 +2759,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e80b05bf-f53c-45db-9c1c-f0c19054d63b")
+			(uuid "0ccd7e46-9164-413c-b433-17a1c3679920")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2754,6 +2784,12 @@
 		(path "/8fce43e9-9ed9-4c50-ad04-de9f937d40df")
 		(sheetname "/")
 		(sheetfile "hackaclock.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3246,7 +3282,7 @@
 			(at -0.275 10.275 270)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "c9904a9f-ffca-4437-bf87-476e2c13dae5")
+			(uuid "4831d87e-7fe1-4c0e-9d62-49b63bcbd351")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -3259,7 +3295,7 @@
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "460e50ab-503a-43f8-a0ff-50f453650bc5")
+			(uuid "44f0dd3b-7db6-47b8-a2dd-b34d8ea410b2")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -3273,7 +3309,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4ababe51-73ef-406a-9a1e-ce685ddb85a6")
+			(uuid "7d4daca7-304d-4575-9b18-ccee6fadafe1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3286,7 +3322,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1bcb6006-747a-48d4-be67-a006e489924a")
+			(uuid "159b34e5-3755-484b-82f9-a6e247e7c002")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3297,6 +3333,14 @@
 		(path "/ac9f5341-1ac9-4d7e-91b1-d501fae0efbe")
 		(sheetname "/")
 		(sheetfile "hackaclock.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "15" "16" "17" "21" "18" "22" "19"
+					"20" "14" "13" "12" "11" "10" "9" "8"
+				)
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3948,14 +3992,6 @@
 		(uuid "32942fda-6e71-4dd6-bc22-6e4a413633f5")
 	)
 	(segment
-		(start 39.289 36.715)
-		(end 40 37.426)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "36c4621c-9b12-48ee-8de0-dab04be1fb52")
-	)
-	(segment
 		(start 40 40)
 		(end 50.04 40)
 		(width 0.2)
@@ -3972,22 +4008,6 @@
 		(uuid "45fb61c7-3cc0-4ae3-af60-d0e9be5d4b74")
 	)
 	(segment
-		(start 22.22 37.381)
-		(end 22.886 36.715)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "52eb649b-4318-406a-9950-502f2c4a7e3e")
-	)
-	(segment
-		(start 22.22 40)
-		(end 22.22 37.381)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "698b9418-8252-4380-9c72-ce13229789c6")
-	)
-	(segment
 		(start 40.04 50)
 		(end 100.04 50)
 		(width 0.2)
@@ -4002,22 +4022,6 @@
 		(layer "B.Cu")
 		(net "GND")
 		(uuid "a2b535ad-919b-4872-b9ab-1bbb76805a64")
-	)
-	(segment
-		(start 22.886 36.715)
-		(end 39.289 36.715)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "a8059ebc-3c6c-4db2-b185-96bfc1bf9804")
-	)
-	(segment
-		(start 40 37.426)
-		(end 40 40)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "bc6cb337-d3a5-407d-9912-b7b5b4fa9a7a")
 	)
 	(segment
 		(start 50.04 40)

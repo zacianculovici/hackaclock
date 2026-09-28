@@ -1712,6 +1712,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 81.28) (xy 132.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24d31707-15a1-4324-9217-3657a9864ba7")
+	)
+	(wire
+		(pts
 			(xy 105.41 77.47) (xy 105.41 74.93)
 		)
 		(stroke
@@ -1929,16 +1939,6 @@
 			(type default)
 		)
 		(uuid "98be2eed-c6eb-46af-bb39-cd7fbfab1485")
-	)
-	(wire
-		(pts
-			(xy 125.73 81.28) (xy 137.16 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa56ad55-61d7-4ccc-bef6-0c89851829f1")
 	)
 	(wire
 		(pts
@@ -3689,84 +3689,6 @@
 			(project "hackaclock"
 				(path "/4cdde8c9-b3ab-4ad8-8942-9e7aceba1631"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 137.16 81.28 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c444e98a-600f-4ab1-9904-ac897bc33423")
-		(property "Reference" "#PWR010"
-			(at 137.16 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 137.16 86.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e56d97f6-3237-4c37-99c7-5bba0eecd1e6")
-		)
-		(instances
-			(project "hackaclock"
-				(path "/4cdde8c9-b3ab-4ad8-8942-9e7aceba1631"
-					(reference "#PWR010")
 					(unit 1)
 				)
 			)
