@@ -42,5 +42,11 @@ fp-info-cache
 # Local project settings
 *.kicad_prl
 
+# Wakatime config
 *.wakatime-project
+
+# Blender backup files
 *.blend1
+
+# Arduino secret file
+firmware/arduino_secrets.h
