@@ -24,7 +24,7 @@ I ran into some pretty tough issues while doing CAD. I made a dumb decision at t
 * 1x Buzzer
 
 ### Firmware
-I used the most barebones firmware to begin, but I will make it super cool after I build. Currently it only gets the local time via WiFi with no fallback, but I will eventually add:
+I am using the most barebones firmware to begin, but I will make it super cool after I build. Currently it only gets the local time via WiFi with no fallback, but I will eventually add:
 * Alarms
 * Manual time setting
 * Timer/stopwatch
