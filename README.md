@@ -3,6 +3,9 @@ My Stardance BLARE alarm clock!!!
 
 ![Screenshot of the entire design](images/CAD.png)
 
+## Inspiration
+Really, I just saw the BLARE mission and thought it was really cool, but I made the case inspired by one of those old alarm clocks with the angled screens. I also added a cool cutout and some bevelling to make it look nice. 
+
 ## Challenges
 I ran into some pretty tough issues while doing CAD. I made a dumb decision at the start to use blender for my CAD even though it's not exactly a CAD program. Loads of non-manifold errors and geometry issues (that might just be why my commit history looks terrible). I spent over 13 hours just getting the CAD done! Despite these problems, I am still very happy with the result and the CAD (in my humble opinion) looks great.
 
@@ -25,6 +28,7 @@ I ran into some pretty tough issues while doing CAD. I made a dumb decision at t
 
 ### Firmware
 I am using the most barebones firmware to begin, but I will make it super cool after I build. Currently it only gets the local time via WiFi with no fallback, but I will eventually add:
+#### Coming soon
 * Alarms
 * Manual time setting
 * Timer/stopwatch
@@ -43,4 +47,4 @@ Here is the Schematic and PCB layout for hackaclock.
 ![PCB Screenshot](images/pcb.png)
 
 ---
-<small>2026 - Zac Ianculovici | [Contact](mailto:zachary.ianculovici@gmail.com) | [Slack](https://hackclub.enterprise.slack.com/team/U0BMLT1CFB3)</small>
+<sup><sub>2026 - Zac Ianculovici | [Contact](mailto:zachary.ianculovici@gmail.com) | [Slack](https://hackclub.enterprise.slack.com/team/U0BMLT1CFB3) | [Stardance](https://stardance.hackclub.com/@zac_i)</sub></sup>
